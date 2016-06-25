@@ -1,6 +1,8 @@
 # bibeast
 A tool for live granular synthesis in surround sound
 
+WARNING! Old code, needs revision!
+
 name - see http://en.wikipedia.org/wiki/List_of_Hulk_supporting_characters
 Bi-Beast - A giant two-headed android living on a floating island in the sky, and containing the knowledge of the bird people that built it.
 
